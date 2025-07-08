@@ -79,9 +79,29 @@ nav li a {
     font-weight: 700;
     font-size: 85px;
 }
-.text-intro p {
+.main{
+    text-align: center;
+}
+.about-me{
+    background-color: #FFF8F3;
+    max-width: 1100px;
+    padding: 10px ;
+    padding-bottom: 35px;
+    padding-top: 35px;
+    margin-top: 35px;
+    margin: 35px auto;
+}
+.about{
+     max-width: 700px;
+     margin: 0 auto;
+     background-color:white;
+     text-align: center;
+     border: black solid 1px;
     
 }
-.banner-pic {
-   
+
+.about-items{
+    display: flex;
+    justify-content: space-around;
 }
+.about 
